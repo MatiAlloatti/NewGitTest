@@ -1,2 +1,3 @@
 a modification
+i consider this a good 2nd line
 this is other modification
